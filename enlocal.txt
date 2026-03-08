@@ -1,3 +1,6 @@
 Archivo creado de manera local
 
 Cambios en el mismo archivo enlocal desde la pc(local)
+
+Editando el archivo enlocal desde github
+
